@@ -30,6 +30,10 @@
     float: left;
     width: 66.66%;
 }
+.column_small {
+    float: left;
+    width: 100%;
+}
 
 /* Clear floats after the columns */
 .row:after {
